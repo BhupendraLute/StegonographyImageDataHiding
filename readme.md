@@ -76,6 +76,8 @@ Contributions are welcome! Follow these steps:
 3️⃣ Commit your changes 📝  
 4️⃣ Push the changes and open a pull request 🔄
 
+## 📜 License
+This project is licensed under the **MIT License**.
 
 ## 📞 Contact
 For questions or suggestions, reach out:
